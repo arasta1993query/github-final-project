@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <arasta1993query>
+   # arasta1993query
 
    # Input:
    # p, principal amount
